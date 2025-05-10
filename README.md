@@ -118,11 +118,10 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+
 
 For any questions or suggestions, feel free to reach out to us:
-- Email: your-email@example.com
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
 
 ---
 
